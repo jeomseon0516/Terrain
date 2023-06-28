@@ -67,6 +67,13 @@
     <Compile Include="Assets\CameraController.cs" />
     <Compile Include="Assets\UI\SkillController.cs" />
     <Compile Include="Assets\Visual Design Cafe\Nature Renderer Demo\Scripts\OpenWebsiteButton.cs" />
+    <Compile Include="Assets\Old Sea Port\EffectExamples\Shared\Scripts\ParticleMenu.cs" />
+    <Compile Include="Assets\Old Sea Port\EffectExamples\Shared\Scripts\GunShoot.cs" />
+    <Compile Include="Assets\Old Sea Port\EffectExamples\Shared\Scripts\ParticleExamples.cs" />
+    <Compile Include="Assets\Old Sea Port\EffectExamples\Shared\Scripts\GunAim.cs" />
+    <Compile Include="Assets\Old Sea Port\EffectExamples\Shared\Scripts\ExtinguishableFire.cs" />
+    <Compile Include="Assets\Old Sea Port\EffectExamples\Shared\Scripts\DecalDestroyer.cs" />
+    <Compile Include="Assets\Old Sea Port\EffectExamples\Shared\Scripts\ParticleCollision.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Visual Design Cafe\ShaderX\Templates\Common\Platforms\GLES3.hlsl" />
@@ -90,6 +97,7 @@
     <None Include="Assets\Visual Design Cafe\ShaderX\Templates\Common\Platforms\GLCore.hlsl" />
     <None Include="Assets\Visual Design Cafe\ShaderX\Templates\Common\Platforms\Switch.hlsl" />
     <None Include="Assets\Visual Design Cafe\ShaderX\Templates\Common\Platforms\GLES2.hlsl" />
+    <None Include="Assets\Old Sea Port\Shaders\MFEP_Stream.shader" />
     <None Include="Assets\Visual Design Cafe\Package Manager\VisualDesignCafe.Editor.PackageManager.dll" />
     <None Include="Assets\Visual Design Cafe\Nature Shaders\Plugins\VisualDesignCafe.Nature.Editor.dll" />
     <None Include="Assets\Visual Design Cafe\ShaderX\Plugins\VisualDesignCafe.ShaderX.Editor.dll" />
@@ -98,6 +106,7 @@
     <None Include="Assets\Visual Design Cafe\ShaderX\Templates\Common\Platforms\PSSL.hlsl" />
     <None Include="Assets\Visual Design Cafe\Nature Renderer\Plugins\VisualDesignCafe.Rendering.Instancing.dll" />
     <None Include="Assets\Visual Design Cafe\Package Manager\VisualDesignCafe.Editor.Events.dll" />
+    <None Include="Assets\Old Sea Port\EffectExamples\Shared\Shaders\SurfaceShader_VC.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
