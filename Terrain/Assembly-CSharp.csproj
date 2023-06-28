@@ -56,8 +56,6 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\pixel horror low poly train exploration expansion Pack\scripts\PauseScrean.cs" />
-    <Compile Include="Assets\pixel horror low poly train exploration expansion Pack\scripts\DogExample.cs" />
     <Compile Include="Assets\Visual Design Cafe\Nature Renderer\Runtime\NatureRenderer.SRP.cs" />
     <Compile Include="Assets\UI\SkillInfo.cs" />
     <Compile Include="Assets\EnemyController.cs" />
@@ -66,14 +64,11 @@
     <Compile Include="Assets\UI\UIInterface.cs" />
     <Compile Include="Assets\Visual Design Cafe\Nature Renderer Demo\Scripts\CompileShaders.cs" />
     <Compile Include="Assets\Visual Design Cafe\Nature Renderer Demo\Scripts\RenderPipelineLighting.cs" />
-    <Compile Include="Assets\pixel horror low poly train exploration expansion Pack\scripts\MouseLook.cs" />
     <Compile Include="Assets\CameraController.cs" />
     <Compile Include="Assets\UI\SkillController.cs" />
     <Compile Include="Assets\Visual Design Cafe\Nature Renderer Demo\Scripts\OpenWebsiteButton.cs" />
-    <Compile Include="Assets\pixel horror low poly train exploration expansion Pack\scripts\PlayerMovement.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\pixel horror low poly train exploration expansion Pack\ReadMe.txt" />
     <None Include="Assets\Visual Design Cafe\ShaderX\Templates\Common\Platforms\GLES3.hlsl" />
     <None Include="Assets\Visual Design Cafe\Nature Renderer\Plugins\VisualDesignCafe.Rendering.Nature.dll" />
     <None Include="Assets\Visual Design Cafe\ShaderX\Templates\Common\Platforms\Vulkan.hlsl" />
